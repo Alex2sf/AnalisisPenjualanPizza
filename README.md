@@ -1,22 +1,33 @@
-Pizza Sales Analysis
-This repository contains the code and analysis for a project focused on understanding and optimizing pizza sales. The project involves exploring a dataset, cleaning the data, and performing exploratory data analysis (EDA) to uncover trends and insights that can be leveraged for business growth.
+# Pizza Sales Analysis
 
-Project Overview
-Objective
-The primary goal of this project is to analyze pizza sales data to identify key patterns and factors that influence sales performance. This analysis aims to provide actionable insights that can help in decision-making processes such as marketing strategy, inventory management, and promotional activities.
+Proyek ini bertujuan untuk menganalisis data penjualan pizza guna menemukan wawasan yang dapat membantu dalam pengambilan keputusan bisnis. Analisis ini meliputi eksplorasi dataset, pembersihan data, dan eksplorasi data (EDA) untuk mengidentifikasi tren dan pola penjualan.
 
-Key Steps
-Data Exploration: Understanding the structure and distribution of the dataset, identifying patterns, and detecting any outliers or anomalies.
-Data Cleaning: Addressing missing data, removing duplicates, and correcting data inconsistencies to ensure accuracy.
-Exploratory Data Analysis (EDA): Using visualizations and statistical methods to reveal trends, such as the most popular pizza types, peak sales periods, and the effectiveness of various promotions.
-Tools and Technologies
-Python: Used for data manipulation and analysis.
-Pandas: For data cleaning and manipulation.
-Matplotlib/Seaborn: For data visualization.
-Jupyter Notebook: For interactive data exploration and analysis.
-Results
-The analysis provides valuable insights into customer preferences, optimal times for promotions, and potential areas for increasing sales. These findings can be applied to enhance the effectiveness of marketing strategies and improve overall sales performance.
+## Teknologi yang Digunakan
 
-How to Use
-To replicate this analysis, clone the repository and run the Jupyter Notebook files provided. Ensure that all required Python packages are installed.
+- **Bahasa Pemrograman:** Python
+- **Library:** 
+  - Pandas
+  - NumPy
+  - Matplotlib
+  - Seaborn
 
+## Proses Pengembangan
+
+1. **Data Exploration:**
+   - Menganalisis struktur dan distribusi dataset, mengidentifikasi pola, serta mendeteksi outlier dan anomali.
+
+2. **Data Cleaning:**
+   - Menangani missing values, menghapus duplikat, dan memperbaiki inkonsistensi data untuk memastikan keakuratan.
+
+3. **Exploratory Data Analysis (EDA):**
+   - Menggunakan visualisasi dan analisis statistik untuk mengungkapkan wawasan penting, seperti jenis pizza yang paling populer, waktu penjualan puncak, dan efektivitas promosi.
+
+## Hasil
+
+- Analisis ini memberikan wawasan tentang preferensi pelanggan, waktu optimal untuk promosi, dan area potensial untuk meningkatkan penjualan. Temuan ini dapat diterapkan untuk meningkatkan strategi pemasaran dan kinerja penjualan secara keseluruhan.
+
+## Cara Menggunakan
+
+1. Clone repositori ini:
+   ```bash
+   git clone https://github.com/username/PizzaSalesAnalysis.git
